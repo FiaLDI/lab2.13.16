@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import sys
 from store.get_product import get_product
 from store.display_product import display_products
 from store.select_product import select_products
-import sys
 
 
 def main():

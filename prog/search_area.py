@@ -9,8 +9,6 @@ def search_area(type = 0):
     '''
     Функция вычисления плозади.
     '''
-    
-    
     if type == 0:
         return triangle
     else:

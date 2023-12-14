@@ -1,4 +1,5 @@
-__all__ = ["display_product",
-           "get_product", 
-           "select_product"
-           ]
+__all__ = [
+    "display_product",
+    "get_product", 
+    "select_product"
+]
